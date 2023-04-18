@@ -9,7 +9,7 @@ A report documenting the decisions made during the design of the models is avail
 For more information, check out this [paper](https://www.nature.com/articles/ncomms5308).
 
 ## Models
-We are comparing several machine learning models, including:
+We are comparing the following machine learning models:
 
 * Neural Networks
 * Logistic Regression
